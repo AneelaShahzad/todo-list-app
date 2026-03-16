@@ -17,7 +17,13 @@ A dynamic To-Do List application built using HTML, CSS, and JavaScript.
 - JavaScript (DOM Manipulation)
 
 ## Author
-Aneela Shahzad
+- Aneela Shahzad
+- https://www.linkedin.com/in/aneela-shahzad-6b7a023b0/
+- aneela.techworks@gmail.com
+- https://github.com/AneelaShahzad
+
+## License
+This project is licensed under the MIT License - see the License file for details.
 
 ## Support
 Star it if you like this project
